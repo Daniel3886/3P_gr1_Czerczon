@@ -1,6 +1,8 @@
-body {
-    background-color: lightblue; 
+p {
+    color: whitesmoke; 
+    background-color: rgb(59, 87, 181); 
 }
 h1 {
     font-family: Arial, sans-serif; 
+    color: rgb(49, 88, 107);
 }
